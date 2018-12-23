@@ -7,6 +7,8 @@
       Flutter可以与现有的代码一起工作。
       在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。
 
+[中文开发书籍](https://book.flutterchina.club/)
+
 
 # Build beautiful native apps in record time
 
