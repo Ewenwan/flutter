@@ -9,6 +9,7 @@
 
 [中文开发书籍](https://book.flutterchina.club/)
 
+[中文github](https://github.com/flutterchina)
 
 # Build beautiful native apps in record time
 
